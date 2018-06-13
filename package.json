@@ -1,0 +1,22 @@
+{
+  "name": "srgenv2",
+  "version": "1.0.0",
+  "description": "Generate a serial number",
+  "main": "serialGeneratorv32.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomwel/serialGeneator.git"
+  },
+  "keywords": [
+    "srgen"
+  ],
+  "author": "Wellington Silva Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomwel/serialGeneator/issues"
+  },
+  "homepage": "https://github.com/tomwel/serialGeneator#readme"
+}
